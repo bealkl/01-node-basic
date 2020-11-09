@@ -19,5 +19,8 @@
   "homepage": "https://github.com/bealkl/01-node-basic#readme",
   "devDependencies": {
     "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "yargs": "^16.1.0"
   }
 }
