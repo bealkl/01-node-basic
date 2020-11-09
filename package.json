@@ -1,0 +1,23 @@
+{
+  "name": "01-node-basic",
+  "version": "1.0.0",
+  "description": "01-node-basic",
+  "main": "index.js",
+  "scripts": {
+    "start": "cross-env NODE_ENV=production node C:\\CODE\\goit.nodejs20\\01-node-basic\\index.js",
+    "dev": "cross-env NODE_ENV=development nodemon C:\\CODE\\goit.nodejs20\\01-node-basic\\index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bealkl/01-node-basic.git"
+  },
+  "author": "Oleksandr Bevzytskyi <bealkl@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bealkl/01-node-basic/issues"
+  },
+  "homepage": "https://github.com/bealkl/01-node-basic#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
